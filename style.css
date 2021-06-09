@@ -1,0 +1,55 @@
+#achievemetsID {
+    padding-bottom: 10px;
+}
+.movie_head {
+    font-size: 20;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_head i {
+    float: right;
+}
+.movie_text span{
+    color: darkorange;
+}
+.environment_li{
+    margin-top: 13px;
+}
+
+.environment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.environment_li img{
+    border-radius: 25px;
+}
+
+.environment_li p{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.header_entrepreneur{
+    line-height: 2;
+}
+.alumini {
+    cursor: pointer;
+}
+.alumini hr{
+    margin-bottom: 10px;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.img_modal{
+ display: inline-block;   
+}
+.p_modal{
+ margin-top: 10px;   
+}
+.modal-body{
+    text-align: center;
+}
